@@ -1,5 +1,5 @@
 {
-  "welcomescreen": [
+  "welcomescreen":
     {
       "pair_results":[
         {
@@ -18,5 +18,4 @@
         }
       ]
     }
-  ]
 }
