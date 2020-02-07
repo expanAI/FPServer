@@ -2,7 +2,7 @@
   "welcomescreen": [
     {
       "face_image_uri": "normal://face-video-scene/20200115/b1-kg69SBuOe-Wuvci-1dg==@1",
-      "face_rect": {'h': 68, 'w': 68, 'x': 1047, 'y': 402},
+      "face_rect": {"h": 68, "w": 68, "x": 1047, "y": 402},
       "person_id": "vip_Ms Low",
       "hit_ts": 1579057994,
       "camera_id" : "2",
