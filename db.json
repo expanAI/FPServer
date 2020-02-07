@@ -1,18 +1,23 @@
 {
-  "pair_results": [
+  "welcomescreen": [
     {
-      "hit_detail":{
-        "hit_timestamp": 1579057994,
-        "camera_id" : "2",
-        "hit_similarity": 98.03277615954366
-      },
-      "result1":{
-        "picture_uri": "normal://face-video-scene/20200115/b1-kg69SBuOe-Wuvci-1dg==@1",
-        "face_rect": {"h": 68, "w": 68, "x": 1047, "y": 402}
-      },
-      "result2":{
-        "person_id": "vip_Ms Low"
-      }
+      "message" : "OK",
+      "pair_results":[
+        {
+        "hit_detail":{
+          "hit_timestamp": 1579057994,
+          "camera_id" : "2",
+          "hit_similarity": 98.03277615954366
+        },
+        "result1":{
+          "picture_uri": "normal://face-video-scene/20200115/b1-kg69SBuOe-Wuvci-1dg==@1",
+          "face_rect": {"h": 68, "w": 68, "x": 1047, "y": 402}
+        },
+        "result2":{
+          "person_id": "vip_Ms Low"
+        }
+        }
+      ]
     }
   ]
 }
